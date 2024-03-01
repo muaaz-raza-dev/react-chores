@@ -1,14 +1,16 @@
 {
-  "name": "react-chores",
+  "name": "react-simpler",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "type": "module",
+  
   "scripts": {
     "build": "npx rollup -c"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["react","typescript","components","hooks"],
+  "author": "Muaaz Raza",
   "license": "ISC",
   "devDependencies": {
     "@rollup/plugin-babel": "^6.0.4",
