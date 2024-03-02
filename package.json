@@ -1,7 +1,7 @@
 {
   "name": "react-simpler",
   "version": "1.0.0",
-  "description": "",
+  "description": "This makes react simple and easy by providing pre-built custom hooks and functions for repetivive tasks in react js",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
