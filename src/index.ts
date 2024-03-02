@@ -1,3 +1,5 @@
 export * from './Hooks/counter'
 export * from './Hooks/trackChanges'
 export * from './Hooks/FormHandler'
+export * from './functions/Maths/Math'
+export * from './functions/Maths/ChainnigMath'
