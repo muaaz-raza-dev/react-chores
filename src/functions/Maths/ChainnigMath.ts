@@ -47,4 +47,4 @@ return MathOperations
 }
 else return MathOperations}
 
-export {MathOperations}
+export {Operations}
