@@ -1,7 +1,7 @@
 {
   "name": "react-simpler",
-  "version": "1.2.5",
-  "description": "This makes react simple and easy by providing pre-built custom hooks and functions for repetivive tasks in react js",
+  "version": "1.2.6",
+  "description": "It makes react simple and easy by providing pre-built custom hooks and functions for repetivive tasks in react js",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
@@ -16,7 +16,7 @@
     "react state"
   ],
   "author": "Muaaz Raza",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@rollup/plugin-babel": "^6.0.4",
     "@rollup/plugin-typescript": "^8.5.0",
@@ -27,7 +27,6 @@
     "tslib": "^2.6.2"
   },
   "dependencies": {
-    "js-cookie": "^3.0.5",
     "typescript": "^5.3.3"
   }
 }
