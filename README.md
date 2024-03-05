@@ -23,6 +23,7 @@ Install react-simpler with npm
  - useGetIpDetails
  - useGeoLocation
  - useShare
+ - useClipboard
 ## Functions
 - NestedtoLinearArray()
 - GetAverage()
