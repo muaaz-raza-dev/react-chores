@@ -16,4 +16,4 @@ useEffect(() => {
 
 return {ValidateRoute,ActiveRoute}
 }
-export default useActiveRoute
+export {useActiveRoute}

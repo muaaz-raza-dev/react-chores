@@ -7,5 +7,6 @@ export * from './Hooks/Location'
 export * from './Hooks/Pagination'
 export * from './Hooks/IpDetails'
 export * from './Hooks/Share'
-export * from './Hooks/ActiveRoute'
+export * from "./Hooks/ActiveRoute"
 export * from './Hooks/Clipboard'
+export * from './Hooks/useHover'
